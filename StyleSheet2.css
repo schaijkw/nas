@@ -1,0 +1,49 @@
+html,
+body {
+    background-color: #dcdcdc;
+    font-family: Georgia, 'Cambria Math';
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    font-size: large;
+    margin-top: 25px;
+}
+
+#main {
+    background-image: url(/Images/naaiatelier-schriever-background2.gif);
+    background-repeat: no-repeat;
+    float: right;
+    width: 1400px; 
+    height: 779px; 
+    border: 4px dashed #c93;
+    border-right: 0;
+}
+
+h1 {
+    float: right;
+    margin: 80px 240px 0 0;
+    font-size: xx-large;
+}
+
+#content {
+    font-size: 20px;
+    clear: both;
+    float: right;
+    margin: 75px 180px 0 0;
+    height: 480px;
+    width: 780px;
+}
+
+.bold {
+    font-weight: bold;
+    text-align:center;
+}
+#footer  {
+    clear: both;
+    float: right;
+    margin: 0px 240px 0 0;
+    color: #999;
+    font-size: x-large;
+    font-weight: bolder;
+    
+}
